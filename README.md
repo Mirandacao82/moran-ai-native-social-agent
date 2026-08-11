@@ -8,6 +8,8 @@ Moran explores a new kind of social product: instead of matching people only thr
 
 The core idea is to let digital agents represent different users, interact under a director agent, and help people understand relationship possibilities before entering high-cost social interaction.
 
+demo link: https://moran-app.popo.baidu-int.com/
+
 ## Product Problem
 
 Social decisions are high-context and emotionally complex:
